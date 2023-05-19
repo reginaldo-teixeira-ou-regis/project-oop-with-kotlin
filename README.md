@@ -1,8 +1,8 @@
-## Project: Learn in Practice OOP with Kotlin
+# Project: Learn in Practice OOP with Kotlin
 
 This is a simple course management system implemented in Kotlin language using Object Orientation. This code was created as a challenge for the Bootcamp TQI Kotlin - Backend Developer of DIO (Digital Innovation One).
 
-### Functionalities
+## Functionalities
 The system allows the following actions:
 
 * Create courses with name, description, duration, level, list of educational content, start and end dates, instructor name, and contact information;
